@@ -1,6 +1,13 @@
 # Responsive Sidebar Template
 A simple and clean responsive sidebar template for your website or application. The sidebar is fully responsive and adapts to different screen sizes.
 
+<img width="700" alt="Light-mode" src="https://user-images.githubusercontent.com/63133930/216797517-0da43921-1984-47ee-b56b-0d376495e12a.png">
+
+<img width="700" alt="Night-mode" src="https://user-images.githubusercontent.com/63133930/216797547-d595d96e-8fd0-4ee2-8c0e-33745a13dfb7.png">
+
+
+<img width="700" alt="Dark-mode" src="https://user-images.githubusercontent.com/63133930/216797563-e79a8fb2-9b00-417b-b445-f1018b2baa81.png">
+
 ## Features
 * Responsive design
 * Clean and simple interface
@@ -23,3 +30,4 @@ The template can be easily customized to match your brand. Simply edit the style
 
 ## Contributing
 Contributions are welcome! If you have any suggestions or bug reports, please create a new issue on the repository's issue tracker.
+
